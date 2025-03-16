@@ -3,9 +3,6 @@ pandas
 matplotlib
 datetime
 metpy
-metpy.calc
-metpy.cbook
-metpy.constants
-metpy.plot
-metpy.units
+
 #math was removed, probably just in python, random too
+# removed metpy subfolders
