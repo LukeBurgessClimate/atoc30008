@@ -1,5 +1,4 @@
 NumPy
-Cartopy
 DateTime
 matplotlib
 MetPy
