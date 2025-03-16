@@ -1,4 +1,4 @@
-python==2.1
+python==2.7.17
 Cartopy==0.18.0
 
 DateTime==4.3
