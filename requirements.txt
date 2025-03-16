@@ -1,8 +1,8 @@
-NumPy
-DateTime
+numpy
+datetime
 matplotlib
-MetPy
-Pint
+metpy
+pint
 scipy
-Shapely
+shapely
 xarray
