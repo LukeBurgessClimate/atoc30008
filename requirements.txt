@@ -1,4 +1,4 @@
-numpy
+NumPy
 Cartopy
 DateTime
 matplotlib
