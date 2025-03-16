@@ -1,3 +1,5 @@
+numpy==1.19.5
+
 Cartopy==0.18.0
 
 DateTime==4.3
@@ -6,7 +8,6 @@ DateTime==4.3
 matplotlib==3.3.4
 MetPy==1.0.0
 
-numpy==1.19.5
 
 Pint==0.16.1
 
