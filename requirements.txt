@@ -1,5 +1,4 @@
 numpy
-random
 pandas
 matplotlib
 datetime
@@ -9,4 +8,4 @@ metpy.cbook
 metpy.constants
 metpy.plot
 metpy.units
-#math was removed, probably just in python
+#math was removed, probably just in python, random too
