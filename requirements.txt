@@ -8,3 +8,4 @@ shapely
 xarray
 seaborn
 windrose
+pint_xarray
